@@ -1,0 +1,12 @@
+{
+    "data" :[
+    {"id": 1, "name": "computer1", "amount":20, "cost":300},
+    {"id": 2, "name": "computer2", "amount":25, "cost":301},
+    {"id": 3, "name": "computer3", "amount":26, "cost":302},
+    {"id": 4, "name": "computer4", "amount":27, "cost":303},
+    {"id": 5, "name": "computer5", "amount":28, "cost":304},
+    {"id": 6, "name": "computer6", "amount":29, "cost":305},
+    {"id": 7, "name": "computer7", "amount":30, "cost":306},
+    {"id": 8, "name": "computer8", "amount":31, "cost":307}
+    ]
+}
